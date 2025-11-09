@@ -989,7 +989,7 @@ print('Omitting ending index:', sond)
 ```
 
 ##  Using Loops
-
+Worked with for-loops and while-loops to repeat operations efficiently.
 ```python
 odds = [1,3,5,7]
 ```
