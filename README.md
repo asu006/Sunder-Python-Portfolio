@@ -6,7 +6,7 @@ Each section below represents the projects and topics we covered throughout the 
 ---
 
 ## Jupyter notebooks 1 & 2
-
+Learned to write, save, and run Python code using JupyterLab.
 
 ```python
 %matplotlib inline
