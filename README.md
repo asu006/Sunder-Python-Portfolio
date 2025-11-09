@@ -1100,13 +1100,14 @@ print(len(name))
     3
 
 
+## Using Multiple Files
+Imported and combined multiple `.csv` data files in Python.
 
 ```python
 
 ```ly.
 
-## Using Multiple Files
-Imported and combined multiple `.csv` data files in Python.
+
 
 ```python
 import glob
