@@ -1231,6 +1231,9 @@ else:
 
 ```
 ##  Functions (1, 2, 3, and 4)
+Defined and called functions to make code reusable and organized.
+
+
 Functions Pt 1
 
 ```python
